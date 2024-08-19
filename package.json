@@ -1,6 +1,6 @@
 {
   "name": "css-to-tailwind-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "parallax18",
   "license": "MIT",
   "description": "Converts CSS style object to tailwind Css",
