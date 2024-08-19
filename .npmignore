@@ -1,0 +1,7 @@
+# Exclude everything except for the dist directory and package.json
+*
+!dist
+!package.json
+src/
+tests/
+*.log
