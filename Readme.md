@@ -1,4 +1,4 @@
-# `css-to-tailwind`
+# `css-to-tailwind-converter`
 
 `css-to-tailwind` is a TypeScript package that converts CSS style objects into Tailwind CSS classes. This package helps you seamlessly integrate inline styles with Tailwind CSS by mapping standard CSS properties and values to their Tailwind counterparts.
 
@@ -13,5 +13,5 @@
 To install the package, run:
 
 ```bash
-npm install css-to-tailwind
+npm install css-to-tailwind-converter
 ```
